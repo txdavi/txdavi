@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Davi Teixeira
 
-**`Desenvolvedor Python iniciante focado em automações e bots. `**
+**`Desenvolvedor Python iniciante. `**
 
 <p> 📒 Me chamo Davi Teixeira Campos, tenho 29 anos e sou natural de Duque de Caxias, Rio de Janeiro. </p>
 <p>FORMAÇÃO</p>
